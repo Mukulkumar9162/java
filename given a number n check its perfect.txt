@@ -1,0 +1,45 @@
+given a number n check its perfect square or not ?
+
+q.2.
+
+given a number n if it  is a perfect square print squreroot otherwise print floor squreroot?
+
+
+question 3.
+given a number n ,it convert in binary form?
+
+
+question:-
+given a  number  n check its power 2^n or not ?
+
+Ans:-
+one(1) is a set belt and (0) is not set bilt.
+int n=128;
+
+
+
+
+
+
+
+
+sort///
+
+
+it's known as greedy approach
+
+
+apple=[4,7,2,9]=22kg
+cap[5,6,7,10]
+
+
+
+
+
+
+
+
+
+
+
+
